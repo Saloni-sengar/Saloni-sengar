@@ -54,3 +54,56 @@ AI • Machine Learning • Deep Learning • Software Development
 </a>
 
 </p>
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,django,flask,mysql,git,github,vscode,tensorflow,pytorch,opencv,sklearn,anaconda,linux,arduino&perline=10" />
+
+</p>
+
+---
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saloni-sengar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni-sengar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saloni-sengar&theme=tokyonight"/>
+
+</p>
+
+---
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saloni-sengar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+# 🚀 Featured Projects
+
+⭐ AI-Based Parliament Monitoring System
+
+⭐ ClimateScope – Global Weather Dashboard
+
+⭐ Crop Price Prediction System
+
+⭐ Telecom Billing Management System
+
+⭐ Deep Learning Image Classification
+
+---
