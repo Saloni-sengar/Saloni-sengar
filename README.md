@@ -81,3 +81,197 @@ AI Engineer Internship
 </p>
 
 ---
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,django,flask,react,mysql,sqlite,tensorflow,git,github,vscode,linux,anaconda&perline=6"/>
+
+</p>
+
+---
+
+# 🤖 Artificial Intelligence & Data Science
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Science
+- Data Analysis
+- Data Visualization
+- Predictive Analytics
+
+</td>
+
+<td width="50%">
+
+### 🤖 Generative AI
+
+- LLM Applications
+- Prompt Engineering
+- AI Chatbots
+- Groq API
+- YouTube Transcript API
+- AI Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Languages
+
+<p>
+
+✔ Python
+
+✔ Java
+
+✔ C++
+
+✔ JavaScript
+
+✔ SQL
+
+✔ HTML5
+
+✔ CSS3
+
+</p>
+
+---
+
+# ⚡ Frameworks & Libraries
+
+<p>
+
+✔ Django
+
+✔ Flask
+
+✔ React
+
+✔ TensorFlow
+
+✔ Scikit-Learn
+
+✔ NumPy
+
+✔ Pandas
+
+✔ Matplotlib
+
+</p>
+
+---
+
+# 🗄️ Databases
+
+- MySQL
+- SQLite
+
+---
+
+# ⚙️ Developer Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Anaconda
+
+---
+
+# 📚 Currently Learning
+
+🌱 Deep Learning
+
+🌱 Computer Vision
+
+🌱 Generative AI
+
+🌱 System Design
+
+🌱 Data Structures & Algorithms
+
+🌱 Large Language Models (LLMs)
+
+---
+
+# 🚀 Featured Projects
+
+## 🏛️ AI-Based Parliament Monitoring System (Live Sansad)
+
+> **Tech Stack:** Python • Django • Groq API • LLM • YouTube Transcript API
+
+✨ AI-powered Parliament Intelligence Platform
+
+✔ Automatic Speech Transcript Extraction
+
+✔ AI Summary Generation
+
+✔ Citizen Dashboard
+
+✔ MP Dashboard
+
+✔ Admin Dashboard
+
+✔ Real-Time Session Analytics
+
+---
+
+## 🧬 Molecular Classification System
+
+> **Tech Stack:** Machine Learning • Flask • React • Python
+
+✔ Molecular Prediction using ML
+
+✔ Chemical Structure Classification
+
+✔ Flask Backend
+
+✔ React Frontend
+
+✔ Interactive Prediction Dashboard
+
+---
+
+## 💰 Student Finance Portal
+
+> **Tech Stack:** Java • Swing • JDBC • MySQL
+
+✔ Student Fee Management
+
+✔ Secure Login
+
+✔ Database Connectivity
+
+✔ Receipt Generation
+
+✔ Fee Tracking
+
+---
+
+## 🧠 Student Mental Health Analysis
+
+> **Tech Stack:** Python • Machine Learning • Flask
+
+✔ Mental Health Prediction
+
+✔ Stress Analysis
+
+✔ Anxiety Detection
+
+✔ Student Performance Analysis
+
+✔ Data Visualization
+
+---
