@@ -1,40 +1,65 @@
-<!-- Banner -->
+<!-- ========================= Banner ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Saloni%20Sengar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Saloni%20Sengar&fontSize=55&fontAlign=50&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Saloni Sengar</h1>
 
 <h3 align="center">
-AI • Machine Learning • Deep Learning • Software Development
+Artificial Intelligence • Machine Learning • Deep Learning • Software Development
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;430%2B+LeetCode+Problems;Python+%7C+Java+%7C+C%2B%2B+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;430%2B+LeetCode+Problems;Always+Learning+New+Things+🚀" />
+
 </p>
 
 ---
 
-## 👩 About Me
+# 👩‍💻 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-💻 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning and Software Development.**
+🏫 SISTec, Bhopal
 
-🌱 Currently learning **Deep Learning, Computer Vision, Django and System Design.**
+💙 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
 
-🏆 Solved **430+ LeetCode Problems**
+💻 Strong foundation in Python, Java, C++, SQL and Software Development.
 
-🚀 Looking for **Software Development & AI Internship Opportunities**
+🤖 Interested in
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+
+🌱 Currently Learning
+
+- Advanced Deep Learning
+- System Design
+- Computer Vision
+- Generative AI
+
+💼 Looking for
+
+Software Development Internship
+
+Machine Learning Internship
+
+AI Engineer Internship
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/saloni-sengar-2a7629290/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/saloni-sengar-2a7629290/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:salonisengar67@gmail.com">
@@ -46,64 +71,13 @@ AI • Machine Learning • Deep Learning • Software Development
 </a>
 
 <a href="https://leetcode.com/u/Saloni_Sengar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/salonisengar67">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/profile/salonisengar67/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,django,flask,mysql,git,github,vscode,tensorflow,pytorch,opencv,sklearn,anaconda,linux,arduino&perline=10" />
-
-</p>
-
----
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saloni-sengar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni-sengar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saloni-sengar&theme=tokyonight"/>
-
-</p>
-
----
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Saloni-sengar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-# 🚀 Featured Projects
-
-⭐ AI-Based Parliament Monitoring System
-
-⭐ ClimateScope – Global Weather Dashboard
-
-⭐ Crop Price Prediction System
-
-⭐ Telecom Billing Management System
-
-⭐ Deep Learning Image Classification
 
 ---
